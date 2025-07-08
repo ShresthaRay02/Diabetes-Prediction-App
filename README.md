@@ -48,10 +48,3 @@ The model uses the following features for prediction:
 
 ---
 
-## 🚀 How to Run the App Locally
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/diabetes-prediction-app.git
-cd diabetes-prediction-app
